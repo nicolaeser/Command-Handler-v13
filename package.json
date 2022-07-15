@@ -1,0 +1,14 @@
+{
+  "name": "commandhandlerv13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "bot": "node deploy-commands.js && node index.js",
+    "index": "node index.js",
+    "deployCommands": "node deploy-commands.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
