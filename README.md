@@ -3,6 +3,8 @@ This is a Discord JS v13 Command Handler.
 Command Handler v13
 by Nico L.
 
+[![wakatime](https://wakatime.com/badge/github/nilasystem/command-handler-v13.svg)](https://wakatime.com/badge/github/nilasystem/command-handler-v13)
+
 ## Global Commands:
 [Guild Commands](https://github.com/nilasystem/command-handler-v13/releases/tag/v0.1.0)
 
