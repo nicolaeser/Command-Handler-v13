@@ -11,7 +11,7 @@ by Nico L.
 
 ## Contact
 **[Discord](https://discord.gg/sJyV76utga)**
-**[Twitter](https://twitter.com/@nilasystemtweet)**
+**[Twitter](https://twitter.com/@ipexatweet)**
 **[Instagram](https://instagram.com/nla.insta)**
 
 
